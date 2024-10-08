@@ -1,5 +1,22 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-acarl005-stripansi (0.0~git20180116.5a71ef0-3) unstable; urgency=medium
 
-  * Initial release
+  [ Debian Janitor ]
+  * Set upstream metadata fields: Bug-Database, Bug-Submit.
+  * Update standards version to 4.5.0, no changes needed.
+  * Apply multi-arch hints.
+    + golang-github-acarl005-stripansi-dev: Add Multi-Arch: foreign.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Tue, 29 Nov 2022 19:51:14 +0000
+
+golang-github-acarl005-stripansi (0.0~git20180116.5a71ef0-2) unstable; urgency=medium
+
+  * Team upload.
+  * Re-upload as source-only
+
+ -- Stephen Gelman <ssgelm@debian.org>  Mon, 16 Dec 2019 23:23:23 -0600
+
+golang-github-acarl005-stripansi (0.0~git20180116.5a71ef0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #935642)
+
+ -- Dawid Dziurla <dawidd0811@gmail.com>  Sat, 24 Aug 2019 21:38:22 +0200
